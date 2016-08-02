@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-01T11:37:26.521Z'
+datePublished: '2016-08-02T10:38:49.535Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-08-01T11:37:05.798Z'
+dateModified: '2016-08-02T10:38:49.344Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
@@ -11,6 +11,11 @@ description: >-
 hasPage: true
 publisher: {}
 via: {}
+inFeed: true
+inNav: false
+inLanguage: null
+keywords: []
+authors: []
 starred: true
 url: it-is-with-great-pride-and-satisfaction-that-we-introduce-to/index.html
 _context: 'http://schema.org'
